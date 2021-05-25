@@ -26,8 +26,7 @@ This app has been built completely in SwiftUI as a learning project for various 
 
 | Detail View 1 | Detail View 2 | Detial View 3 |
 | ------------- | ------------- | ------------- |
-| ![Africa_info1](https://user-images.githubusercontent.com/38729069/119443600-806eba00-bd47-11eb-81a9-b3dcaf1cbbbd.png) | ![Africa_info2](https://user-images.githubusercontent.com/38729069/119443608-82d11400-bd47-11eb-9dc5-1b1755b07f4f.png) | ![Africa_info3](https://user-images.githubusercontent.com/38729069/119443615-85cc0480-bd47-11eb-98c2-2dd40ef3661e.png)
- |
+| ![Africa_info1](https://user-images.githubusercontent.com/38729069/119443600-806eba00-bd47-11eb-81a9-b3dcaf1cbbbd.png) | ![Africa_info2](https://user-images.githubusercontent.com/38729069/119443608-82d11400-bd47-11eb-9dc5-1b1755b07f4f.png) | ![Africa_info3](https://user-images.githubusercontent.com/38729069/119443615-85cc0480-bd47-11eb-98c2-2dd40ef3661e.png) |
 
 
 ## The interactive video section shows short clips of the animals:
@@ -47,6 +46,5 @@ This app has been built completely in SwiftUI as a learning project for various 
 
 | Video View 1 | Video View 2 |
 | ------------- | ------------- |
-| 
-![Africa_gallery1](https://user-images.githubusercontent.com/38729069/119443580-7a78d900-bd47-11eb-9c8d-2df06c042012.png) | ![Africa_gallery2](https://user-images.githubusercontent.com/38729069/119443587-7cdb3300-bd47-11eb-9490-e87d0e4acc49.png) |
+| ![Africa_gallery1](https://user-images.githubusercontent.com/38729069/119443580-7a78d900-bd47-11eb-9c8d-2df06c042012.png) | ![Africa_gallery2](https://user-images.githubusercontent.com/38729069/119443587-7cdb3300-bd47-11eb-9490-e87d0e4acc49.png) |
 
